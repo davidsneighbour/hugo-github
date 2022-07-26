@@ -1,6 +1,6 @@
 {
   "name": "@davidsneighbour/hugo-github",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "license": "MIT",
   "description": "Some tools for GitHub components",
   "author": "Patrick Kollitsch <patrick@davids-neighbour.com> (https://davids-neighbour.com)",
